@@ -21,12 +21,12 @@ Tools and other useful resources for Front-End Developers
 
 ### Scaffolding and Build Tools
 
-*[Yeoman](http://yeoman.io/)
-*[Brunch](http://brunch.io/)
-*[Grunt](http://gruntjs.com/)
-*[Gulp](http://gulpjs.com/)
+* [Yeoman](http://yeoman.io/)
+* [Brunch](http://brunch.io/)
+* [Grunt](http://gruntjs.com/)
+* [Gulp](http://gulpjs.com/)
 
 ### Frameworks and Grid Tools
 
-*[Twitter Bootstrap](http://getbootstrap.com/)
-*[Zurb Foundation](http://foundation.zurb.com/)
+* [Twitter Bootstrap](http://getbootstrap.com/)
+* [Zurb Foundation](http://foundation.zurb.com/)
