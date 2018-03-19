@@ -90,7 +90,7 @@ Tools and other useful resources for Front-End Developers
 
 #### Testomg Frameworks
 
-* [Mocha](http://visionmedia.github.com/mocha/)
+* [Mocha](http://mochajs.org/)
 * [Jasmine](http://pivotal.github.com/jasmine/)
 
 
